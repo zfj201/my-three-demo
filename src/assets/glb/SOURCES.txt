@@ -1,0 +1,7 @@
+Models from Khronos glTF-Sample-Assets:
+https://github.com/KhronosGroup/glTF-Sample-Assets
+
+DamagedHelmet.glb     CC-BY-4.0   Battle Damaged Sci-fi Helmet by theblueturtle_
+ChronographWatch.glb  CC-BY-4.0   Chronograph Watch
+ToyCar.glb            CC0-1.0     Toy Car
+AntiqueCamera.glb     CC0-1.0     Antique Camera
