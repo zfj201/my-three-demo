@@ -30,7 +30,7 @@ onMounted(() => {
   const scene = new THREE.Scene();
   scene.background = new THREE.Color(0x202735);
 
-  const camera = new THREE.PerspectiveCamera(45, 1, 0.1, 1000);
+  const camera = new THREE.PerspectiveCamera(75, 0.1, 0.1, 1000);
   camera.position.set(0, 4, 18);
 
   const renderer = new THREE.WebGLRenderer({ antialias: true });

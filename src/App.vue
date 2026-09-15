@@ -6,6 +6,7 @@
 // import Texture from './components/05-texture.vue'
 // import GLB from './components/06-glb.vue'
 import GLBInner from './components/07-glb-inner.vue'
+import GLBAnimation from './components/08-glb-animation.vue'
 </script>
 
 <template>
@@ -15,5 +16,6 @@ import GLBInner from './components/07-glb-inner.vue'
   <!-- <MaterialGeometry /> -->
   <!-- <Texture /> -->
   <!-- <GLB /> -->
-  <GLBInner />
+  <!-- <GLBInner /> -->
+  <GLBAnimation />
 </template>

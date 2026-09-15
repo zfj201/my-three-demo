@@ -5,3 +5,6 @@ DamagedHelmet.glb     CC-BY-4.0   Battle Damaged Sci-fi Helmet by theblueturtle_
 ChronographWatch.glb  CC-BY-4.0   Chronograph Watch
 ToyCar.glb            CC0-1.0     Toy Car
 AntiqueCamera.glb     CC0-1.0     Antique Camera
+
+RobotExpressive.glb comes from the Three.js examples repository:
+https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf/RobotExpressive
