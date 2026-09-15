@@ -4,7 +4,8 @@
 // import WorldPosition from './components/03-worldPosition.vue'
 // import MaterialGeometry from './components/04-MaterialGeometry.vue'
 // import Texture from './components/05-texture.vue'
-import GLB from './components/06-glb.vue'
+// import GLB from './components/06-glb.vue'
+import GLBInner from './components/07-glb-inner.vue'
 </script>
 
 <template>
@@ -13,5 +14,6 @@ import GLB from './components/06-glb.vue'
   <!-- <WorldPosition /> -->
   <!-- <MaterialGeometry /> -->
   <!-- <Texture /> -->
-  <GLB />
+  <!-- <GLB /> -->
+  <GLBInner />
 </template>
